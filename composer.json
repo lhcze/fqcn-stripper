@@ -1,6 +1,5 @@
 {
   "name": "lhcze/fqcn-stripper",
-  "version": "1.0.0",
   "description": "Utility for extracting and formatting FQCN base names with string transformation support.",
   "type": "library",
   "license": "MIT",
